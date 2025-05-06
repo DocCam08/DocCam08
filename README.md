@@ -46,7 +46,7 @@ I’m transitioning from mental health to tech with the goal of building a meani
 
 - 📧 Email: camrenbento08@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/camrenbento](https://www.linkedin.com/in/camrenbento/)  
-- 🧑‍💻 GitHub: [@camrenbento](https://github.com/camrenbento)
+- 🧑‍💻 GitHub: [@DocCam08](https://github.com/camrenbento)
 
 ---
 
