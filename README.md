@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm currently a student in the Post-Baccalaureate Computer
 
 ## 📚 Coursework
 
-- ✅ CSPB 1300: Computer Science 1 (Python)  
+- ✅ CSPB 1300: Computer Science 1 (Python & C++)  
 - 🔜 CSPB 2270: Discrete Structures (Summer 2025)
 
 ---
